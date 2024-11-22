@@ -1,6 +1,6 @@
 # Fake Product Detection 
 
-![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/fab6cfca-4e54-4c49-b884-f4af43efbb10)
+![Scan to Check](https://github.com/user-attachments/assets/0daee3b5-3767-4076-a83a-c07abc9c8f90)
 
 ## 🌟 Overview
 A decentralized application (DApp) leveraging **Ethereum Blockchain** to detect counterfeit products. This project ensures transparency and authenticity in product verification by using **smart contracts** to store and validate product details.
