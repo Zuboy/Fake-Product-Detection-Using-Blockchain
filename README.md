@@ -37,6 +37,7 @@ A decentralized application (DApp) leveraging **Ethereum Blockchain** to detect 
 5. **Connect MetaMask**:
    -Add a local test network.
    -Import accounts from Ganache using private keys.
+   
 6.**Interact with the DApp through the generated web interface**.
    
 ## 📖 How It Works
